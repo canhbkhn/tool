@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\sol\sol\bin\Debug\netcoreapp2.1\sol.deps.json
+C:\Users\Admin\source\repos\sol\sol\bin\Debug\netcoreapp2.1\sol.runtimeconfig.json
+C:\Users\Admin\source\repos\sol\sol\bin\Debug\netcoreapp2.1\sol.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\sol\sol\bin\Debug\netcoreapp2.1\sol.dll
+C:\Users\Admin\source\repos\sol\sol\bin\Debug\netcoreapp2.1\sol.pdb
+C:\Users\Admin\source\repos\sol\sol\obj\Debug\netcoreapp2.1\sol.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sol\sol\obj\Debug\netcoreapp2.1\sol.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\sol\sol\obj\Debug\netcoreapp2.1\sol.AssemblyInfo.cs
+C:\Users\Admin\source\repos\sol\sol\obj\Debug\netcoreapp2.1\sol.dll
+C:\Users\Admin\source\repos\sol\sol\obj\Debug\netcoreapp2.1\sol.pdb
+C:\Users\Admin\source\repos\sol\sol\obj\Debug\netcoreapp2.1\sol.csprojAssemblyReference.cache
